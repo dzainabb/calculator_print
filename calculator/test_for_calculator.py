@@ -1,6 +1,6 @@
 import unittest
 import numpy as np
-from calculator.calculator_function import date1, date2
+from calculator_function import date1, date2
 
 # define the unit tests
 class my_unit_tests(unittest.TestCase):
